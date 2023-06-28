@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc87e4e8.css",
+    "main.js": "/static/js/main.da816b5c.js",
+    "static/media/App-Banner.png": "/static/media/App-Banner.7078878f53ec58cdd269.png",
+    "static/media/liz.png": "/static/media/liz.785f1fb4109d59bd2b1a.png",
+    "static/media/betty.png": "/static/media/betty.d2843f90b58b85674fab.png",
+    "static/media/alma.png": "/static/media/alma.a0af8d0143cea8068b7b.png",
+    "static/media/lore-tatoe.png": "/static/media/lore-tatoe.ee306a727784b5ea82ac.png",
+    "static/media/esme.png": "/static/media/esme.89b1eaeb140c946b4c50.png",
+    "static/media/eric.png": "/static/media/eric.d5f060f401485c7d33e5.png",
+    "static/media/birthday-image.png": "/static/media/birthday-image.1d1466f86aeb7f5c15fa.png",
+    "static/media/hb-logo.svg": "/static/media/hb-logo.09141d96efc1081c69aec3e992a0fc2b.svg",
+    "index.html": "/index.html",
+    "main.dc87e4e8.css.map": "/static/css/main.dc87e4e8.css.map",
+    "main.da816b5c.js.map": "/static/js/main.da816b5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc87e4e8.css",
+    "static/js/main.da816b5c.js"
+  ]
+}
